@@ -10,13 +10,13 @@
 <h1 align="center"> 
 Welcome! 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px >
-I'm Nico!
+I'm GER!
 </h1>
 
 
 <!-- PROFESSION AND LOCATION-->
 <h2 align="center">
-Data Scientist | Data Analyst | Data Engineer | Industrial Engineer
+Data Scientist | Data Analyst | Data Engineer |  Python | Machine Learning | ETL | SQL | Power BI | Big Data | Metodologías Agiles | GIT
 </h2>
 <div align="center">
   <img src=https://img.shields.io/badge/country-Argentina-6CACE4?&style=for-the-badge&labelColor=0a0a0a alt=devto style="margin-bottom: 5px;"/>
