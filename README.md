@@ -32,20 +32,15 @@ Data Scientist | Data Analyst | Data Engineer |  Python | Machine Learning | ETL
 
 ```python
 things_about_me = {
-                   "Studies": ['Data Science', 'Industrial Engineering'],
+                   "Studies": ['Data Science', 'Data Analytics'],
                    "Hobbies": ['swimming', 'singing', 'travelling', 'coding'],
                    "SoftSkills": ['resilience', 'problem-solving', 'creativity', 'adaptability', 'teamwork'],
                    "Languages": ['Spanish', 'English']
                    }
 print(f"""
-        I'm an tech and data enthusiat person, always willing to collaborate
-        in a team environment. In 2022 I decided to switch my profession to 
-        Data Science and ... I found gold!
-        
-        My Studies? ---> {things_about_me['Studies']}
-        What do I like to do? ---> {things_about_me['Hobbies']}
-        My Soft-Skills? ---> {things_about_me['SoftSkills']}
-        I'm not a poliglot, but I know these languages ---> {things_about_me['Languages']}
+Hello! 👋
+I am Germán Rodríguez, Freelancer Data Specialist. I am from Argentina.
+I provide my consulting services to all types of companies that want to apply agile methodology for the datadriven world.
        """)
 ```
 <br>
