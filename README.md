@@ -91,10 +91,8 @@ print(f"""
   Github Stats
 </h2> 
 
-![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicolazarte2894&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicolazarte2894&&style=for-the-badge" align="center" />
 </div>  
 <br>
 
@@ -105,13 +103,13 @@ print(f"""
   Contact Me
 </h2> 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolas-angel-lazarte" target="_blank">
+  <a href="https://www.linkedin.com/in/german-rodriguez-data/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/nicolazarte2894" target="_blank">
+  <a href="https://github.com/Geerdata/Geerdata" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:nicolazarte2894@gmail.com" target="_blank">
+  <a href="mailto:rodriguezgermancarlos@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
 </div>  
